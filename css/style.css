@@ -1,0 +1,21 @@
+
+.effect-honey,img{
+	padding: 0px;
+	width: 500px;
+	height: 200px;
+}
+img{
+	width: 550px;
+	padding: 0px 0px 0px 0px;
+	height: 250px;
+}
+figure,img{
+	height: 250px;
+}
+figure{
+	width: 500px;
+	height: 350px;
+}
+figcaption,h2{
+	font-size: 19px;
+}
